@@ -1,4 +1,4 @@
-# Homework02
+# Portfolio (Revised from Homework 02)
 ## Homework for last week of CSS or week 2 overall - this requires us to create a portfolio using html/css that we covered over the last two weeks of class.
 
 - The motivation for myself is to demonstrate what I have learned over the last two weeks and demonstrate that I have built on my ability to use CSS and HTML toolsets.
