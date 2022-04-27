@@ -6,7 +6,7 @@
 - During this task I learned how quickly your code can become quite bloated and tried to keep things to a min. I know that there is probably a lot more fat I can trim.
 
 ## Website can be viewed here:
-- https://aurafly.github.io/Homework02/
+- https://aurafly.github.io/Portfolio/
 
 
 ![Example Screenshot](./assets/SS.jpg)
