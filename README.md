@@ -1,15 +1,15 @@
-# Homework02
-## Homework for last week of CSS or week 2 overall - this requires us to create a portfolio using html/css that we covered over the last two weeks of class.
+# Portfolio
+## About me:
 
-- The motivation for myself is to demonstrate what I have learned over the last two weeks and demonstrate that I have built on my ability to use CSS and HTML toolsets.
-- I have utilized several different CSS styles that were not covered in our class and have attempted to use them in my portfolio.
-- During this task I learned how quickly your code can become quite bloated and tried to keep things to a min. I know that there is probably a lot more fat I can trim.
+My name is Jordan Covarrubias, but I go by the alias AuraFly on different online communities and projects. I have been passionate about technology ever since 1990 when my father brought home a Tandy 1000 and we installed and played lemmings off of floppy disks. Since then I have been fascinated with computers, the technology they rely on, and IT in general.
+
+Through my younger years I spent most of my time learning to build PCs and how their components work, then in high school I began network technology studies with the cisco academy. After graduation I began my studies with a major in Computer Science. Since then I have been following a career focused on network technology and currently work as a Senior Network Manager for FIS. I am now working hard to expand my skillset into the programming/dev world to hopefully open additional doors and prepare myself for a software/automation driven industry.
 
 ## Website can be viewed here:
-- https://aurafly.github.io/Homework02/
+- https://aurafly.github.io/Portfolio/
 
 
-![Example Screenshot](./assets/SS.jpg)
+![Example Screenshot](./assets/SS2.jpg)
 
 
 ## Usage
