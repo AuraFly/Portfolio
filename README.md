@@ -1,4 +1,4 @@
-# Portfolio (Revised from Homework 02)
+# Homework02
 ## Homework for last week of CSS or week 2 overall - this requires us to create a portfolio using html/css that we covered over the last two weeks of class.
 
 - The motivation for myself is to demonstrate what I have learned over the last two weeks and demonstrate that I have built on my ability to use CSS and HTML toolsets.
@@ -6,7 +6,7 @@
 - During this task I learned how quickly your code can become quite bloated and tried to keep things to a min. I know that there is probably a lot more fat I can trim.
 
 ## Website can be viewed here:
-- https://aurafly.github.io/Portfolio/
+- https://aurafly.github.io/Homework02/
 
 
 ![Example Screenshot](./assets/SS.jpg)

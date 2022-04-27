@@ -27,7 +27,7 @@ body {
 
 .header #links ul {
     list-style-type: none;
-    margin: 3vh 0px 3vh 0px;
+    margin-top: 15px;
 }
 
 .header #links ul li {
