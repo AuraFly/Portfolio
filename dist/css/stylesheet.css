@@ -22,7 +22,8 @@
 
 #myphoto {
   margin-left: 50px;
-  margin-top: 2vh;
+  margin-top: 1.2vh;
+  margin-bottom: auto;
   border-radius: 25%;
   max-width: 100%;
   height: auto;
@@ -32,13 +33,18 @@
 #quote {
   font-style: italic;
   font-family: "Raleway", sans-serif;
-  font-size: 1.5vw;
-  width: 400px;
+  margin-left: 50px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  flex-wrap: nowrap;
+  max-width: 300px;
 }
 
 .mainslide {
   margin-left: auto;
   margin-right: auto;
+  min-width: 300px;
 }
 
 .uk-card {
